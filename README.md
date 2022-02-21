@@ -1,7 +1,7 @@
 # UI-Design
 In this Repo, there are the UI Design designed by me using various tools like Figma, Abode Xd, Illustrator and many more. 
 
-<u>Furniture Site </u> :
+~~Furniture Site~~:
 https://www.figma.com/proto/9h3sXlzk6JFqxkNFAdd9nR/Furniture-Site?node-id=2%3A2&scaling=scale-down
 
 Yoga Website :
