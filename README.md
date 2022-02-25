@@ -24,3 +24,6 @@ https://www.figma.com/proto/0rWR072rRt7Q95IVqG9VbE/Salad-UI?node-id=1%3A2&scalin
 
 Fitness App UI:
 https://www.figma.com/proto/NMTOmMsIo639vG0Y19xvNY/Fitness-UI?node-id=3%3A5&scaling=scale-down&page-id=0%3A1
+
+Chat UI :
+https://www.figma.com/proto/HllPdTbU1mbTCkZq7bwNJm/Chat-UI?node-id=22%3A183&scaling=scale-down
