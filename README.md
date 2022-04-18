@@ -7,6 +7,9 @@ https://www.figma.com/proto/9h3sXlzk6JFqxkNFAdd9nR/Furniture-Site?node-id=2%3A2&
 Yoga Website :
 https://www.figma.com/proto/GdpdcAwvg5QUd7ObAWZrI8/Yoga-Website?node-id=1%3A2&scaling=scale-down
 
+Huminos Website :
+https://www.figma.com/proto/dWqSpQ9LXwTIuyYMLFKPPj/Huminos-UI-Design?node-id=2%3A2&starting-point-node-id=2%3A2&scaling=scale-down
+
 Movie App UI :
 https://www.figma.com/proto/zOJNsUM0alV94RyW42G0sf/Movie-App-UI?node-id=21%3A2&scaling=scale-down
 
